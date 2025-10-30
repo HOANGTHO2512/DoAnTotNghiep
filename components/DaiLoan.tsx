@@ -724,7 +724,7 @@ const styles = StyleSheet.create({
     },
     quickSelectBtn: {
         paddingVertical: 8,
-        paddingHorizontal: 12,
+        paddingHorizontal: 13,
         backgroundColor: '#333',
         borderRadius: 6,
         minWidth: 70,
@@ -742,4 +742,4 @@ const styles = StyleSheet.create({
         color: '#fff',
         fontWeight: '700',
     },
-});
+});s
